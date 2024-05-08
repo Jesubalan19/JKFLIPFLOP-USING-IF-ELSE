@@ -1,4 +1,4 @@
-# JKFLIPFLOP-USING-IF-ELSE
+### EX-07 <p align="center"><b>JKFLIPFLOP-USING-IF-ELSE</b>
 
 **AIM:** 
 
